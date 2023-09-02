@@ -1,4 +1,13 @@
+
+## GITHUB PAGES COURSE
 ---
-title: Welcome to my blog
+Description : A dummy website for practicing GitHub Pages and web development skills.
 ---
+
+## learnings
+- [x] create a repository
+- [x] pull a request
+- [x] commit
+- [x] merge
+- [ ] Github pages  
 
