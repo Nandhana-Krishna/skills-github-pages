@@ -1,13 +1,8 @@
 
-## GITHUB PAGES COURSE
+## BLOG
 ---
-Description : A dummy website for practicing GitHub Pages and web development skills.
+Explore our blog for the latest developer news, updates, and insightful stories to supercharge your coding journey.
 ---
 
-## learnings
-- [x] create a repository
-- [x] pull a request
-- [x] commit
-- [x] merge
-- [ ] Github pages  
+
 
